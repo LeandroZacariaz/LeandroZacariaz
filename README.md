@@ -8,8 +8,12 @@
   
 - 🌱 Con experiencia en arquitectura de microservicios con **Java y Spring Boot**, y en constante perfeccionamiento.
 - ⭐ Actualmente aprendiendo y profundizando en **React.**
-- 💬 Consultame sobre **Desarrollo Backend, APIs RESTful, JWT, Spring Security**
-- 🚀 Proyectos personales destacados: **Plataforma E-commerce, Blogging API, Todo List, y Expense Tracker.**
+- 💬 Consúltame sobre **Desarrollo Backend, APIs RESTful, JWT, Spring Security**
+- 🚀 Proyectos personales destacados:
+  - [Plataforma E-commerce](https://github.com/LeandroZacariaz/scalable-ecommerce-platform)
+  - [Blogging API](https://github.com/LeandroZacariaz/blogging-platform-api)
+  - [Todo List](https://github.com/LeandroZacariaz/todolist-api)
+  - [Expense Tracker](https://github.com/LeandroZacariaz/expense-tracker-api)
 - ⚙️ Tech stack: **Java, Spring Boot, MySQL, Docker, Swagger, Git, JWT**
 - 📫 Contacto: **leandrozacariaz18@gmail.com**
 
