@@ -7,7 +7,7 @@
 <td width="50%" align="left">
   
 - 🌱 Con experiencia en arquitectura de microservicios con **Java y Spring Boot**, y en constante perfeccionamiento.
-- ⭐ Actualmente aprendiendo y profundizando en *React.*
+- ⭐ Actualmente aprendiendo y profundizando en **React.**
 - 💬 Consultame sobre **desarrollo backend, APIs RESTful, JWT, Spring Security**
 - 🚀 Proyectos personales destacados: **Plataforma E-commerce, Blogging API, Todo List, y Expense Tracker.**
 - ⚙️ Tech stack: **Java, Spring Boot, MySQL, Docker, Swagger, Git, JWT**
